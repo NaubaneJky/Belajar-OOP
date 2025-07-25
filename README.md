@@ -1,2 +1,2 @@
 # Belajar-OOP
-Belajar OOP di PHP diajarinb oleh Bu Imanita
+Belajar OOP di PHP diajarin oleh Bu Imanita
