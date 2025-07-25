@@ -1,5 +1,4 @@
 <?php
-include "connect.php";
 Class XIPPLG3 {
 
     public $name;
